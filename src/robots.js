@@ -32,19 +32,19 @@ export const robots =
 },
 {
     id:6,
-    name:'boqlwa Jamal',
+    name:'Baderr Jamal',
     username:'JB',
     phone : '+33 6 72 07 65 12'
 },
 {
     id:7,
-    name:'nichmok kk',
+    name:'lamin niso',
     username:'KN',
     phone : '+33 6 72 07 65 12'
 },
 {
     id:8,
-    name:'lqlawi James',
+    name:'famous James',
     username:'JL',
     phone : '+33 6 72 07 65 12'
 }
